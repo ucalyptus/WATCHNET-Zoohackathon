@@ -9,8 +9,7 @@
 ## How to Run
 
 `
-pip install -r requirements.txt
-`
+pip install -r requirements.txt`<br>
 `
 python3 spacy_demo.py
 `
