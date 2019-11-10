@@ -1,4 +1,4 @@
-# WATCHNET-Zoohackathon
+# A proof of concept solution towards Wildlife Crime Reporting
 
 ## Contributors:
 - Abhishek Jha (@sololobo904)
