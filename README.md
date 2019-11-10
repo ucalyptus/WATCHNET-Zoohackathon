@@ -5,8 +5,11 @@
 - Devesh Kumar Rai (@Deveshrai02)
 - Sayantan Das (@ucalyptus)
 
+## APK Releases
+[APK v0.1](https://github.com/ucalyptus/WATCHNET-Zoohackathon/wiki/)
 
-## How to Run
+
+## How to find Wildlife Keywords from news articles.
 
 `
 pip install -r requirements.txt
