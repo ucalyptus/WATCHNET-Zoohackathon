@@ -14,7 +14,9 @@
 ```
 chmod r+w bash_imports.sh
 
+
 ./bash_imports.sh
+
 
 python3 spacy_demo.py
 ```
