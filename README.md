@@ -11,18 +11,13 @@
 
 ## How to find Wildlife Keywords from news articles.
 
-`
+```
 chmod r+w bash_imports.sh
 
-`
-`
 ./bash_imports.sh
 
-`
-
-`
 python3 spacy_demo.py
-`
+```
 
 
 ![](http://ucalyptus.github.io/WATCHNET-Zoohackathon/1.png)
