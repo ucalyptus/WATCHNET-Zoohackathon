@@ -5,6 +5,10 @@
 - Devesh Kumar Rai (@Deveshrai02)
 - Sayantan Das (@ucalyptus)
 
+## Fire the NLP Notebook at this [link](http://bit.ly/kolzoo)
+
+## [Link to Slides](http://bit.ly/ppthack)
+
 ## APK Releases
 [APK v0.1](https://github.com/ucalyptus/WATCHNET-Zoohackathon/wiki/)
 
