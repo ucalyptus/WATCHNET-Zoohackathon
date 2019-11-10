@@ -12,7 +12,8 @@
 ## How to find Wildlife Keywords from news articles.
 
 `
-pip install -r requirements.txt
+chmod r+w bash_imports.sh
+./bash_imports.sh
 `
 
 `
