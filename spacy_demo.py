@@ -49,10 +49,6 @@ from spacy import displacy
 nlp = spacy.load("en")
 import warnings
 warnings.filterwarnings('ignore',category=UserWarning)
-'''
-d = open("report4.txt","r",encoding = "utf8")
-x = d.read()
-'''
 for text in lineList:
   
   
@@ -63,10 +59,3 @@ for text in lineList:
   
   
   displacy.render(wt,style="ent",jupyter=True)
-
-!pip install news-please
-
-from newsplease import NewsPlease
-article = NewsPlease.from_html('https://www.customs.gov.hk/en/publication_press/press/index_current.html')
-print(article.title)
-
