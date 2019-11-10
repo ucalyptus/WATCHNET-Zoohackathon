@@ -9,11 +9,12 @@
 ## How to Run
 
 `
-pip install -r requirements.txt`<br>
+pip install -r requirements.txt
+`
+
 `
 python3 spacy_demo.py
 `
 
-# 
 
 ![](http://ucalyptus.github.io/WATCHNET-Zoohackathon/1.png)
