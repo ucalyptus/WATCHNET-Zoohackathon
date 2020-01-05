@@ -20,6 +20,7 @@ public class AnalyseArticleActivity extends AppCompatActivity {
     public static EditText articleContentTextView;
     public static EditText contentSimplifiedTextView;
     public static String simplifiedText = "";
+    public static SQLiteDatabase mydb;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -86,7 +87,7 @@ public class AnalyseArticleActivity extends AppCompatActivity {
                     }
                     if(i<=1){
                         //title VARCHAR, content VARCHAR, who VARCHAR, what VARCHAR, how VARCHAR, place VARCHAR, vehiclesUsed VARCHAR, newspaperName VARCHAR, images VARCHAR, date VARCHAR
-                        mydb.execSQL("Insert into analyseTable(title, who, what, how, place, vehiclesUsed, newspaperName, images, date) values('"+tit+",'"+who+"', '"+what+"', '" +how+"', '" +place+"', '"+vehiclesUsed+"', '"+newspaperName+"', '"+images+"', '"+date+"')");
+                        mydb.execSQL("Insert into analyseTable(title, who, what, how, place, vehiclesUsed, newspaperName, images, date) values('"+tit+"','"+who+"', '"+what+"', '" +how+"', '" +place+"', '"+vehiclesUsed+"', '"+newspaperName+"', '"+images+"', '"+date+"')");
 
                         Toast.makeText(AnalyseArticleActivity.this, "Successfully Added", Toast.LENGTH_SHORT).show();
                     }

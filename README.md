@@ -12,7 +12,7 @@
 ## APK Releases
 [APK v0.1](https://github.com/ucalyptus/WATCHNET-Zoohackathon/wiki/)
 
-
+## Fire it live at [this link.](https://colab.research.google.com/drive/1tvE9fnbPAJ2tVhVZvfmkcNxgDMPnMQ53)
 ## How to find Wildlife Keywords from news articles.
 
 ```
